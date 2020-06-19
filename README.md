@@ -13,4 +13,4 @@ If faced any installation error you will get help in this page:
 
 https://github.com/r-lib/remotes/blob/master/README.md#environment-variables
 
-Abailable soon in CRAN also.
+Available soon in CRAN also.

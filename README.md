@@ -7,7 +7,7 @@ To install in R
 
 install.packages("devtools")
 
-devtools::install_github("SubhadipDatta/ReadDIM_0.2.10")
+devtools::install_github("SubhadipDatta/ReadDIM")
 
 If faced any installation error you will get help in this page:
 

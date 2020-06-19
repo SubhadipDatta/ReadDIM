@@ -6,7 +6,7 @@ This package will help you to open ESA SNAP file format (.dim) in R. Currently s
 To install in R
 
 install.packages("devtools")
-
+Sys.setenv(R_REMOTES_NO_ERRORS_FROM_WARNINGS="true")
 devtools::install_github("SubhadipDatta/ReadDIM")
 
 If faced any installation error you will get help in this page:

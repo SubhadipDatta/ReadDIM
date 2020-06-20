@@ -1,7 +1,7 @@
 Package: ReadDIM
 Type: Package
 Title: Read ESA SNAP Processed Raster Format in R
-Date: 15-06-2020
+Date: 2020-06-15
 Version: 0.2.10
 Author: Subhadip Datta
 Maintainer: Subhadip Datta <subhadipdatta007@gmail.com>
